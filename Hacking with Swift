@@ -1,0 +1,5 @@
+let cars = [ "Porsche", "Ferrari","BMW","Mercedes","Audi"]
+
+let uniqueCars = Set(cars)
+ 
+print("Total cars: \(cars.count), unique cars: \(uniqueCars.count)")
